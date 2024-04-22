@@ -1,0 +1,18 @@
+body{
+    margin: 80px;
+    padding: 50px;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 352px; /* Adjust as needed */
+    border: 2px solid black; /* Just for visualization */
+    
+}
+
+.square {
+    width: 20px;
+    height: 20px;
+    border: 1px solid black;
+}
